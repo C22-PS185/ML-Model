@@ -11,10 +11,10 @@ There is various therapy to recover from stroke such as physical therapy, memory
 
 ## Used Technologies
 To develop this machine learning model we use CNN (Convolutional Neural Network) algoritm and Mobilenet as transfer learning. We also used some python library in this project, including:
-- Python 3.7.13 version
-- TensorFlow 2.8.2 version
-- Matplotlib 3.2.2 Version
-- Numpy 1.21.6 version
+- [Python 3.7.13 version](https://www.python.org/downloads/release/python-3717/)
+- [TensorFlow 2.8.2 version](https://pypi.org/project/tensorflow/2.8.2/)
+- [Matplotlib 3.2.2 Version](https://pypi.org/project/matplotlib/3.2.2/)
+- [Numpy 1.21.6 version](https://pypi.org/project/numpy/1.21.6/)
 
 ## Dataset
 We collected our dataset from various image source from the internet (pinterest, freepik, kaggle). We got 900 face images data in total and there is the distribution :
